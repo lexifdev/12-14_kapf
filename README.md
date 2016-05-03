@@ -1,3 +1,9 @@
+# TL;DR
+3개 합쳐놓은 UTF8 인코딩의 CSV파일
+
+https://github.com/lexifdev/12-14_kapf/releases/download/v0.0/merged_utf8.csv
+
+
 # 12-14_kapf
 12~14년 19대 국회의원 정치자금 사용 내역
 첨부 파일 3개는 오마이뉴스가 중앙선관위에 정보공개청구를 통해 받은 19대 국회의원 총 322명의 12~14년 정치자금 수입지출 보고서를 지출내역만 정리한 것입니다.
